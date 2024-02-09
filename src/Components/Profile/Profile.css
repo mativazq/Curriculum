@@ -1,0 +1,25 @@
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333; /* Color oscuro para el texto */
+    margin-top: 30px; /* Ajusta el margen según sea necesario */
+    font-size: 40px;
+    background-color: rgba(0, 255, 128, 0.397);
+  }
+
+
+.textoCv {
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    color: #555;
+    line-height: 2.5;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center; /* Centra el texto */
+    max-width: 50em; /* Establece un ancho máximo */
+    margin-left: auto; /* Alinea al centro */
+    margin-right: auto; /* Alinea al centro */
+  }
+  

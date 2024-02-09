@@ -1,0 +1,23 @@
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #333; /* Color oscuro para el texto */
+  margin-top: 30px; /* Ajusta el margen según sea necesario */
+  font-size: 50px;
+}
+
+.foto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Ajusta según sea necesario */
+}
+
+.imagen-cv {
+  width: 300px; /* Ajusta el tamaño de la imagen según sea necesario */
+  height: 300px; /* Ajusta el tamaño de la imagen según sea necesario */
+  border-radius: 50%; /* Borde redondeado */
+  border: 2px solid #ccc; /* Borde con color gris claro, ajusta según sea necesario */
+}

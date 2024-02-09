@@ -1,0 +1,44 @@
+.education{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333; /* Color oscuro para el texto */
+    margin-top: 30px; /* Ajusta el margen según sea necesario */
+    font-size: 40px;
+    background-color: rgba(0, 255, 128, 0.397);
+  }
+
+  .container {
+    max-width: 600px; /* Ancho máximo del contenedor */
+    margin: 0 auto; /* Centrar el contenedor en la página */
+    padding: 20px; /* Espaciado interno del contenedor */
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 1.5em; /* Tamaño del texto para títulos */
+    margin-bottom: 10px; /* Espaciado inferior para títulos */
+  }
+  
+  h5 {
+    font-size: 1.2em; /* Tamaño del texto para subtítulos */
+    margin-top: 15px; /* Espaciado superior para subtítulos */
+    margin-bottom: 5px; /* Espaciado inferior para subtítulos */
+  }
+  
+  p {
+    font-size: 1em; /* Tamaño del texto para párrafos */
+    margin-bottom: 15px; /* Espaciado inferior para párrafos */
+  }
+  
+  ul {
+    list-style: none; /* Elimina los puntos de la lista */
+    padding: 0; /* Elimina el relleno predeterminado de la lista */
+    margin-top: 5px; /* Espaciado superior para la lista */
+  }
+  
+  ul li {
+    margin-bottom: 5px; /* Espaciado inferior para elementos de la lista */
+  }
+  
